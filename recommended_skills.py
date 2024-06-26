@@ -28,7 +28,7 @@ ios_skills = ['iOS Development', 'Swift', 'Objective-C', 'Xcode', 'Cocoa Touch',
 # UI/UX devlopment skills
 uiux_skills = ['UI', 'User Experience', 'Adobe XD', 'Figma', 'Prototyping',
                'Zeplin', 'Balsamiq', 'Wireframes', 'Storyframes', 'Adobe Photoshop',
-               'Editing', 'Illustrator', 'After Effects', 'Premier Pro', 'InDesign',]
+               'Editing', 'Illustrator', 'After Effects', 'Premier Pro', 'InDesign']
 
 # Soft Skills 
 soft_skill = ['Communication', 'Teamwork', 'Problem-Solving', 'Time Management', 'Adaptability', 
